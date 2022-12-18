@@ -1,0 +1,56 @@
+body {
+    background-color: #f1f1f1;
+    color: #0f141e;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.avatar{
+    width: 200;
+    border-radius: 28px;
+
+}
+.info {
+margin: 0;
+font-style: italic;
+font-weight: bold;
+
+}
+
+.card {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    
+
+}
+.bg-yellow{
+    line-height: 36px;
+    background: #fff9fc;
+}
+.bg-green {
+    background: #e5ffe7;
+}
+.bg-blue{
+    background: #babaf3;
+}
+.inform{
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+.logo{
+    height: 40px;
+    border: none;
+    margin-left: 800px;
+    margin-top: 30px;
+}
+footer {
+    display: flex;
+    margin: 50px;
+}
